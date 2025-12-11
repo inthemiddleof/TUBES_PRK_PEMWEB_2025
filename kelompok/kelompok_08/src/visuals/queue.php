@@ -40,7 +40,7 @@ echo getNavbar("visuals");
             <div class="lg:col-span-1 space-y-6">
                 <div class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
                     <div class="bg-indigo-50 px-6 py-4 border-b border-indigo-100">
-                        <h3 class="font-bold text-indigo-900 text-sm uppercase flex items-center gap-2">📚 Konsep Dasar</h3>
+                        <h3 class="font-bold text-indigo-900 text-sm uppercase flex items-center gap-2">Konsep Dasar</h3>
                     </div>
                     <div class="p-6 text-sm text-gray-600 space-y-4">
                         <p><strong>Definisi:</strong> Queue adalah struktur data linear yang mengikuti prinsip <span class="font-bold text-indigo-600">FIFO (First In First Out)</span>. Elemen yang pertama kali masuk akan pertama kali dilayani.</p>

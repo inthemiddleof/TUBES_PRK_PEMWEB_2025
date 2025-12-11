@@ -19,7 +19,7 @@ Aplikasi ini dikembangkan untuk memenuhi tugas mata kuliah Pemrograman Web oleh 
 
 ## 📖 Ringkasan Project
 
-Codevis dibangun menggunakan **PHP Native** dan **MySQL** dengan antarmuka modern menggunakan **Tailwind CSS, HTML, dan Native JS**. Sistem ini memiliki dua peran utama (Dosen & Mahasiswa) serta fitur unggulan berupa visualisasi struktur data dinamis.
+Codevis dibangun menggunakan **PHP Native** dan **MySQL** dengan antarmuka modern menggunakan **HTML, Tailwind CSS, dan Native JS**. Sistem ini memiliki dua peran utama (Dosen & Mahasiswa) serta fitur unggulan berupa visualisasi struktur data dinamis.
 
 ### Fitur Utama:
 
