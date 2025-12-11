@@ -37,9 +37,12 @@ Codevis dibangun menggunakan **PHP Native** dan **MySQL** dengan antarmuka moder
     - Akses ke materi visualisasi.
 
 3.  **Visualisasi Struktur Data (Interactive):**
-    - **Stack (Tumpukan):** Simulasi _Push_ dan _Pop_ (LIFO).
-    - **Queue (Antrian):** Simulasi _Enqueue_ dan _Dequeue_ (FIFO).
-    - **Linked List:** Simulasi penambahan/penghapusan _Node_ dan _Pointer_.
+    - **Stack**
+    - **Queue**
+    - **Linked List**
+    - **Array**
+    - **Searching**
+    - **Sorting**
 
 ---
 
@@ -59,11 +62,11 @@ Pastikan Anda sudah menginstal aplikasi berikut:
 
 1.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/inthemiddleof/TUBES_PRK_PEMWEB_2025](https://github.com/inthemiddleof/TUBES_PRK_PEMWEB_2025)
+    git clone (https://github.com/inthemiddleof/TUBES_PRK_PEMWEB_2025)
     ```
 2.  Masuk ke folder project:
     ```bash
-    cd codevis
+    cd TUBES_PRK_PEMWEB_2025
     ```
 3.  Jalankan Laragon yang sudah ada MySql dan apache server.
 
